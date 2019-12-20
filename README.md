@@ -1,5 +1,6 @@
-Essay
+My Essay
 ================
 
   
-- [Essay](https://github.com/Cathalmathers98/Website/blob/gh-pages/index.html)  
+- [Essay](https://cathalmathers98.github.io/Website/)  
+
